@@ -16,11 +16,11 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#About The Project">About The Project</a></li>
-	<li><a href="#GUI Design">GUI Design</a></li>
-	<li><a href="#Finite State Machine">Finite State Machine</a></li>
-	<li><a href="#How To Run">How To Run</a></li>
-	<li><a href="#Contact">Contact</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+	<li><a href="#gui-design">GUI Design</a></li>
+	<li><a href="#finite-state-machine">Finite State Machine</a></li>
+	<li><a href="#how-to-run">How To Run</a></li>
+	<li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
