@@ -11,7 +11,7 @@
 
 ## Demo
 
-![](demo.gif)
+![](/demo/demo.gif)
 
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -30,11 +30,11 @@
 In this project, I decided to make simulation the iPhones Calculator app to be the example product for all state in my calculator state machine. Calculator without using state machine is very simple to process. However, simple also deal with error, Calculatorwithout state machine can sold multiple operation exactly, such as 2 + 3 * 4 which reality is 2 + (3 * 4) = 14 or
 erroneously evaluate in this way (2 + 4) * 2 = 12. So in the backend of this project, i using the FSM - Finite State Machine
 
-![pp1](Untitled.png)
+![pp1](/images/Untitled.png)
 
 ## GUI Design
 
-![pp1](1.png)
+![pp1](/images/1.png)
 
 With javafx library in intellij idea, i create
 java application to easy to describe interface for user. GUI is learning on the concept of default iPhone’s Calculator.
@@ -43,12 +43,12 @@ However, Calculator State Machine has the 2 second screen in top of result scree
 
 ## Finite State Machine
 
-![fsm](Untitled Diagram.png)
+![fsm](/images/UntitledDiagram.png)
 
 With easy-state library, that are to easy to describe state of
 machine
 
-![2](2.png)
+![2](/images/2.png)
 
 one transition has a name, source State, target State, event
 Type (trigger event change state) and event Handler (handle
@@ -66,7 +66,7 @@ OPC = complex operation ← (* or /) event
 
 I using 7 variable for remember separate number and operation and output :
 
-![3](3.png)
+![3](/images/3.png)
 
 s_f ← first number← input from button has number text
 s_s ← second number← input from button has number text
